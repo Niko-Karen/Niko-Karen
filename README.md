@@ -4,7 +4,7 @@
 我是一名十二岁的小学生六年级学生，在几年前被编程深深地吸引了，随后便走上了`编程`这条道路，希望能越走越远。
 我的梦想就是成为一名`全栈`程序员！很伟大的哦！😘
 
-🤔 我的个人博客 👉[https://niko-karen.github.io](https://niko-karen.github.io)<br>
+🤔 我的个人博客 👉[https://www.nikoblog.top](https://www.nikoblog.top/)<br>
 😎 我的 Microsoft Learn 👉 [https://docs.microsoft.com/en-us/users/niko-1820/](https://docs.microsoft.com/en-us/users/niko-1820/)<br>
 📧 我的 Email 👉 [liuzx0636@outlook.com](mailto:liuzx0636@outlook.com)
 
