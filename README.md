@@ -1,8 +1,8 @@
 ## Hello, 陌生人 👋
 
 ### 自我介绍 ⛵
-我是一名十二岁的小学生六年级学生，在几年前被编程深深地吸引了，随后便走上了`编程`这条道路，希望能越走越远。
-我的梦想就是成为一名`全栈`程序员！很伟大的哦！😘
+我是一名十七岁的高中学生，在几年前被编程深深地吸引了，随后便走上了`编程`这条道路，希望能越走越远。
+我的梦想就是成为一名`AI Agent`程序员！😘
 
 🤔 我的个人博客 👉[https://www.nikoblog.top](https://www.nikoblog.top/)<br>
 😎 我的 Microsoft Learn 👉 [https://docs.microsoft.com/en-us/users/niko-1820/](https://docs.microsoft.com/en-us/users/niko-1820/)<br>
@@ -12,8 +12,10 @@
 - 写好多好多的博文👻
 - 一个开源项目 (摆脱 Ctrl C + Ctrl V 工程师的命运)⏳
 - 搭建自己的个人网站🎖️
+- 努力学习校内知识
+- 完成数个Agent完整项目
 
->书山有路勤为径，学海无涯苦作舟。 这就是我学习编程的态度。没有风雨何来彩虹？
+>书山有路勤为径，学海无涯苦作舟。
 
 ### 正在学习
 编程语言: [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)、[![](https://img.shields.io/badge/-Python-B3CD1C?style=flat-square&logo=python&logoColor=ffffff)](https://python.org/)、[![](https://img.shields.io/badge/-Php-16537E?style=flat-square&logo=php&logoColor=ffffff)](https://php.org/) ……
